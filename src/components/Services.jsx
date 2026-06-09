@@ -52,7 +52,7 @@ function Services() {
               </p>
 
               <a
-                href={`https://wa.me/254726224656?text=Hello%20StayLuxe%20ManiStyle,%20I%20would%20like%20to%20book%20${service.title}.`}
+                href={`https://wa.me/254799117367?text=Hello%20StayLuxe%20ManiStyle,%20I%20would%20like%20to%20book%20${service.title}.`}
                 target="_blank"
                 rel="noreferrer"
                 className="book-btn"

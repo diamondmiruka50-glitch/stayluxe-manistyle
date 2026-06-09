@@ -16,7 +16,7 @@ function BookingForm() {
 
     const message = `Hello, I want to book:%0AName: ${form.name}%0APhone: ${form.phone}%0AService: ${form.service}`;
 
-    window.open(`https://wa.me/254700000000?text=${message}`, "_blank");
+    window.open(`https://wa.me/254799117367?text=${message}`, "_blank");
   };
 
   return (
